@@ -36,7 +36,7 @@
 #define rk500_02 false
 #define bh1750 true
 #define sht30 true
-#define NBL_S_TMC_7 true
+#define NBL_S_TMC_7 false
 #define nbl_s_npk false
 #define co2 false
 #define enable_sleep_mode false
