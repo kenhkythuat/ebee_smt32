@@ -31,7 +31,7 @@
 #define true 1
 #define false 0
 
-#define rk520_01 false
+#define rk520_01 true
 #define rk520_02 false
 #define rk500_02 false
 #define bh1750 true
