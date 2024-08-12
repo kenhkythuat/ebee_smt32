@@ -41,6 +41,6 @@
 #define co2 false
 #define enable_sleep_mode false
 
-#define time_Period ((1000000*time_sleep)/60000)-1;
+#define TIME_PERIOD ((1000000*time_sleep)/60000)-1;
 
 #endif /* INC_CONFIG_H_ */
